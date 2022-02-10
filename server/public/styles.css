@@ -24,3 +24,9 @@ header {
 .team2 {
   background-color: plum;
 }
+
+footer {
+  text-align: center;
+  font-style: italic;
+  margin-top: 20px;
+}
